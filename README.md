@@ -2,8 +2,8 @@
 ## Introduction
 Purpose: To continuously add ingredients to the grocery list, utilizing a try/except and pickling.  
 
-**Developer: Kathleen Wong**
-**Title: Assignment 07**
+**Developer: Kathleen Wong**  
+**Title: Assignment 07**  
 **Initial Commit Date: 11.30.2021**  
 
 # Code
