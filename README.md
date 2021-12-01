@@ -1,5 +1,5 @@
 # IntroToProg-Python-Mod07
-##Introduction
+## Introduction
 Purpose: To continuously add ingredients to the grocery list, utilizing a try/except and pickling.  
 
 **Developer: Kathleen Wong**
